@@ -4,28 +4,18 @@
 
 **Work-in:**
 
-0. Data Science Presentation Course
-1. Python *args, **kwargs`
-
-*Data Science Industry Salary & Roles*
+1. python cows & bulls 
+2. python password generator
+3. python inheritance 
 
 ---------
 
 **Work-out:**
 
-2. Mandatory readings:
+4. pandas lectures
+5. pandas exercises
 
-- https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch03.html
-
-- https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html
-
-- From cap *"Exploratory Data Analysis Fundamentals"*
-  To cap *"Ratio"*
-
-  **Link**: https://learning.oreilly.com/library/view/hands-on-exploratory-data/9781789537253/0957090f-fa4d-4145-95dd-6d3782e5c04d.xhtml 
-
-3. numpy/
-4. pandas/
+*NOTE: Under the cells in pandas exercises, there is the solution. Remember that if you run the cells you will lose the solution. For that, try to create new cells to check your solution.*
 
 ---------
 
