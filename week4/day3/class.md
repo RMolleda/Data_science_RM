@@ -6,14 +6,15 @@
 
 1. python-json
 2. python paths - .py
+3. pandas chipotle - solution
 
 ---------
 
 **Work-out:**
 
-3. pandas lectures
-4. pandas exercises
-5. json exercise
+4. pandas lectures
+5. pandas exercises
+6. json exercise
 
 *NOTE: Under the cells in pandas exercises, there is the solution. Remember that if you run the cells you will lose the solution. For that, try to create new cells to check your solution.*
 
@@ -31,13 +32,13 @@
 
 - gabriel@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/gabrielvazqueztb/15-min-gabriel-tutorials
+*Tutorials*: https://calendly.com/gabrielvazqueztb
 
 **Teacher Assistant**: *Clara Piniella Martinez*
 
 - clara.piniella@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/clapiniella/tutorias
+*Tutorials*: https://calendly.com/clapiniella
 
 **Teacher Assistant**: *Diomedes Barbero Martinez*
 
