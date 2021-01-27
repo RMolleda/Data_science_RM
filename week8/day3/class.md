@@ -18,7 +18,6 @@
 6. exercises/height_weight
 7. exercises/train_validation_test_set
 8. To read: 
-
     - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ch01.html
     - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ch02.html
     - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ch04.html
