@@ -1,6 +1,7 @@
 *.sav*
 *password*
-
+/week12_DL/day4/exercise/*
+/week12_DL/day4/*
 *selenium_donot_work*
 
 /week3*/day4*/examples*
