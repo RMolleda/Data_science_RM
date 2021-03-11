@@ -14,7 +14,7 @@
 2. Generate putty key - Public & private  -- **Or from AWS directly**
     - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-### Check city of the server (Ohio)!
+### Check city of the server (Ohio, London)!
 On EC2:
 3. Open Security Group - Inbound & Outbound all traffic. 
 4. Key Pairs - Import keys - **Directly in AWS** 
